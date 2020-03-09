@@ -1,11 +1,11 @@
 {
-  "_id": "page.date",
+  "_id": "page.date-of-birth",
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.date--date.auto_name__2",
+      "_id": "page.date-of-birth--date.auto_name__2",
       "_type": "date",
-      "legend": "What is your birthday?",
+      "legend": "Date of birth",
       "name": "auto_name__2",
       "show": {
         "identifier": "auto_name__5",
@@ -13,5 +13,6 @@
       }
     }
   ],
-  "url": "date"
+  "sectionHeading": "Date section heading",
+  "url": "date-of-birth"
 }
