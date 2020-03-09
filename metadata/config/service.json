@@ -2,6 +2,6 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components=>service",
   "_type": "config.service",
-  "name": "Conditional Email Acceptance Test Service",
+  "name": "Feature Conditional Acceptance Test Service",
   "phase": "none"
 }
