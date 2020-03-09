@@ -1,0 +1,17 @@
+{
+  "_id": "page.date",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.date--date.auto_name__2",
+      "_type": "date",
+      "legend": "What is your birthday?",
+      "name": "auto_name__2",
+      "show": {
+        "identifier": "auto_name__5",
+        "operator": "defined"
+      }
+    }
+  ],
+  "url": "date"
+}
